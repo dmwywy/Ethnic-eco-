@@ -8,7 +8,8 @@
   "window": {
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "民族eco+",
-    "navigationBarBackgroundColor": "#28e28e"
+    "navigationBarBackgroundColor": "#28e28e",
+    "enablePullDownRefresh": true
   },
   "tabBar": {
     "list":[
